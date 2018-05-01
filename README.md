@@ -1,2 +1,0 @@
-# showVueProject
-javascript,vue
